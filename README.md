@@ -5,9 +5,6 @@ Welcome to **Job Portal** – a full-stack MERN (MongoDB, Express, React, Node.j
 ---
 ## Project Overview 
 
-### Live Demo
-Live Site Link - [Job Portal](https://react-travel-guide-phi.vercel.app/)
-
 ### Screenshots
 ![Travel Guide](https://github.com/VishalRN/MERN-JOB-PORTAL/blob/main/MERN-JOB-PORTAL.png)
 
